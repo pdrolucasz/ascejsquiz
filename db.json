@@ -1,29 +1,44 @@
 {
     "bg": "https://i.pinimg.com/originals/d1/8a/c9/d18ac98c144be04289d33bf0dd0ca3f4.png",
-    "bgMobile": "https://wallpapercave.com/wp/wp2825269.jpg",
     "title": "Quiz de One Piece",
     "description": "Teste os seus conhecimentos sobre o universo de One Piece e vamos ver o quanto você conhece da Grand Line.",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://pa1.narvii.com/6500/70edd3524c83ed2a740a2b43f9623b363d6ceb15_00.gif",
+        "title": "Com quantos anos Luffy começou sua jornada pirata?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "21",
+          "19",
+          "17",
+          "15",
+          "18"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://i.pinimg.com/originals/6f/bd/f6/6fbdf6980fc77b293081a1c4ba3ec3a0.gif",
+        "title": "Qual o significado da tatuagem 3D2Y?",
         "description": "Faz tempo em haha",
-        "answer": 0,
+        "answer": 1,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Para sair com estilo na foto do jornal",
+           "Para comunicar os seus companheiros para se encontrarem no Arquipélago de Sabaody em 2 anos e não 3 dias",
+           "Para comunicar os seus companheiros para se encontrarem na Ilha dos Homens-Peixe em 3 dias e não 2 anos",
+           "Para comunicar os seus companheiros para se encontrarem na Ilha dos Homens-Peixe em em 2 anos e não 3 dias"
+        ]
+      },
+      {
+        "image": "https://wanpisu.weebly.com/uploads/9/0/9/5/9095421/9204356_orig.gif",
+        "title": "Qual o lugar da execução do Rei dos Pirtas, Gol D. Roger?",
+        "description": "Faz tempo em haha",
+        "answer": 1,
+        "alternatives": [
+           "País de Wano",
+           "Marineford",
+           "Arquipélago de Sabaody",
+           "Loguetown",
+           "Alabasta"
         ]
       }
     ],
