@@ -47,6 +47,11 @@ Widget.Content = styled.div`
     list-style: none;
     padding: 0;
   }
+
+  img {
+    width: 100%;
+    height: 100%;
+  }
 `;
 
 Widget.Topic = styled.a`
@@ -60,6 +65,10 @@ Widget.Topic = styled.a`
   border-radius: ${({ theme }) => theme.borderRadius};
   transition: .3s;
   display: block;
+
+  input[type="radio"] {
+    display: none;
+  }
   
   &:hover,
   &:focus {
