@@ -11,6 +11,8 @@ export default function QuizPage() {
       <QuizScreen
         externalQuestions={db.questions}
         externalBg={db.bg}
+        projectName="ascejsquiz"
+        githubUser="pdrolucasz"
       />
     </ThemeProvider>
   );

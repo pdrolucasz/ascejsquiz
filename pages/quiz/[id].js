@@ -5,12 +5,14 @@ import { ThemeProvider } from 'styled-components';
 
 import QuizScreen from '../../src/screens/Quiz';
 
-export default function QuizDaGaleraPage({ dbExterno }) {
+export default function QuizDaGaleraPage({ dbExterno, projectName, githubUser }) {
   return (
     <ThemeProvider theme={dbExterno.theme}>
       <QuizScreen
         externalQuestions={dbExterno.questions}
         externalBg={dbExterno.bg}
+        projectName={projectName}
+        githubUser={githubUser}
       />
     </ThemeProvider>
   );
@@ -36,6 +38,8 @@ export async function getServerSideProps(context) {
     return {
       props: {
         dbExterno,
+        projectName,
+        githubUser,
       },
     };
   } catch (err) {
