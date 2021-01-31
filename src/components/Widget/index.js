@@ -43,9 +43,27 @@ Widget.Content = styled.div`
   & > *:last-child {
     margin-bottom: 0;
   }
-  ul {
+
+  ul,
+  ul.container {
     list-style: none;
     padding: 0;
+  }
+
+  ul.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+
+    li {
+      height: 100px;
+      border-radius: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 24px;
+    }
   }
 
   img {
