@@ -14,7 +14,9 @@ const screenStates = {
   LOADING: 'LOADING',
   RESULT: 'RESULT',
 };
-export default function QuizScreen({ externalQuestions, externalBg }) {
+export default function QuizScreen({
+  externalQuestions, externalBg, projectName, githubUser,
+}) {
   const [screenState, setScreenState] = useState(screenStates.LOADING);
   const [results, setResults] = useState([]);
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -63,7 +65,7 @@ export default function QuizScreen({ externalQuestions, externalBg }) {
 
         {screenState === screenStates.RESULT && <ResultWidget results={results} />}
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/pdrolucasz/ascejsquiz" />
+      <GitHubCorner projectUrl={`https://github.com/${githubUser}/${projectName}`} />
     </QuizBackground>
   );
 }
@@ -79,4 +81,6 @@ QuizScreen.propTypes = {
     ),
   }).isRequired).isRequired,
   externalBg: PropTypes.string.isRequired,
+  projectName: PropTypes.string.isRequired,
+  githubUser: PropTypes.string.isRequired,
 };
