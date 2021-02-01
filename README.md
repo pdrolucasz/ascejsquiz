@@ -18,8 +18,14 @@
 # Instalação
 
 <strong>
-  Necessário um instalador de pacotes, utilizei nesse projeto o <a href="https://yarnpkg.com/">Yarn</a>.
-  Para clonar o projeto usando HTTPS, use este comando:
+  Será necessários algumas ferramentas: <a href="https://git-scm.com/">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>,
+  nesse projeto utilizei um instalador de pacotes diferente, caso queira usá-lo <a href="https://yarnpkg.com/">Yarn</a>.
+</strong>
+
+<br />
+
+<strong>
+  Para clonar o projeto usando HTTPS, use esse comando:
 </strong>
 
 <pre>
@@ -39,5 +45,7 @@
 
 <pre>
   # http://localhost:3000/
-  yarn next
+  yarn dev
+
+  npm run dev
 </pre>
