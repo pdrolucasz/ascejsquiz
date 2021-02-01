@@ -8,6 +8,7 @@ import GitHubCorner from '../../components/GitHubCorner';
 import LoadingWidget from '../../components/LoadingWidget';
 import ResultWidget from '../../components/ResultWidget';
 import QuestionWidget from '../../components/QuestionWidget';
+import QuizLogo from '../../components/QuizLogo';
 
 const screenStates = {
   QUIZ: 'QUIZ',
@@ -51,6 +52,7 @@ export default function QuizScreen({
   return (
     <QuizBackground backgroundImage={bg}>
       <QuizContainer>
+        <QuizLogo />
         {screenState === screenStates.QUIZ && (
           <QuestionWidget
             question={question}

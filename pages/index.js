@@ -12,7 +12,7 @@ import Input from '../src/components/Input';
 import Button from '../src/components/Button';
 import QuizContainer from '../src/components/QuizContainer';
 import Link from '../src/components/Link';
-// import QuizLogo from '../src/components/QuizLogo';
+import QuizLogo from '../src/components/QuizLogo';
 
 export default function Home() {
   const router = useRouter();
@@ -31,6 +31,7 @@ export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg}>
       <QuizContainer>
+        <QuizLogo />
         <Widget
           as={motion.section}
           transition={{ delay: 0, duration: 0.5 }}
@@ -49,7 +50,7 @@ export default function Home() {
               <Input
                 name="nomeDoUsuario"
                 onChange={inputChange}
-                placeholder="Diz ai seu nome"
+                placeholder="Diz ai seu nome para jogar"
                 value={name}
               />
               <Button type="submit" disabled={name.length === 0}>
