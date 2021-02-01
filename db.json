@@ -136,7 +136,7 @@
     ],
     "external": [
       "https://aluraquiz-base.alura-challenges.vercel.app/",
-      "https://quiz-interstellar.dotjorge.vercel.app/",
+      "https://quiz-interstellar.dotjorge.vercel.app/"
     ],
     "theme": {
       "colors": {
@@ -149,4 +149,4 @@
       },
       "borderRadius": "4px"
     }
-  }
+}
