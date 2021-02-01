@@ -19,72 +19,72 @@
       {
         "image": "https://i.pinimg.com/originals/6f/bd/f6/6fbdf6980fc77b293081a1c4ba3ec3a0.gif",
         "title": "Qual o significado da tatuagem 3D2Y de Luffy?",
-        "description": "Faz tempo em haha",
+        "description": "Saiu nos jornais pelo mundo",
         "answer": 2,
         "alternatives": [
           "Para comunicar os seus companheiros para se encontrarem no Arquipélago de Sabaody em 3 dias e não 2 anos",
           "Para comunicar os seus companheiros para se encontrarem na Ilha dos Homens-Peixe em 3 dias e não 2 anos",
           "Para comunicar os seus companheiros para se encontrarem no Arquipélago de Sabaody em 2 anos e não 3 dias",
-           "Para sair com estilo na foto do jornal",
-           "Para comunicar os seus companheiros para se encontrarem na Ilha dos Homens-Peixe em em 2 anos e não 3 dias"
+          "Para sair com estilo na foto do jornal",
+          "Para comunicar os seus companheiros para se encontrarem na Ilha dos Homens-Peixe em em 2 anos e não 3 dias"
         ]
       },
       {
         "image": "https://wanpisu.weebly.com/uploads/9/0/9/5/9095421/9204356_orig.gif",
-        "title": "Qual o lugar da execução do Rei dos Pirtas, Gol D. Roger?",
-        "description": "Essa é antiga em",
+        "title": "Qual o lugar da execução do Rei dos Piratas, Gol D. Roger?",
+        "description": "Cidade portuária",
         "answer": 3,
         "alternatives": [
-           "País de Wano",
-           "Marineford",
-           "Arquipélago de Sabaody",
-           "Loguetown",
-           "Alabasta"
+          "País de Wano",
+          "Marineford",
+          "Arquipélago de Sabaody",
+          "Loguetown",
+          "Alabasta"
         ]
       },
       {
         "image": "https://i.redd.it/n14x6paqfc761.png",
         "title": "Quem construiu o navio Oro Jackson, o único navio conhecido que navegou até o final da Grand Line?",
-        "description": "Essa é boa em",
+        "description": "Navio de Gol D. Roger",
         "answer": 0,
         "alternatives": [
-           "Tom, o mais hábil construtor naval do mundo",
-           "Iceburg, o presidente da Companhia Galley-La e Prefeito de Water 7",
-           "Franky, o carpinteiro",
-           "Merry, empregado da mansão de Kaya",
-           "Klabautermann"
+          "Tom, o mais hábil construtor naval do mundo",
+          "Iceburg, o presidente da Companhia Galley-La e Prefeito de Water 7",
+          "Franky, o carpinteiro",
+          "Merry, empregado da mansão de Kaya",
+          "Klabautermann"
         ]
       },
       {
         "image": "https://criticalhits.com.br/wp-content/uploads/2019/11/Luffy-Tenryuubito.gif",
         "title": "Qual a organização que trabalha diretamente com os Dragões Celestiais?",
-        "description": "Essa é boa em",
+        "description": "Tenryūbitos",
         "answer": 4,
         "alternatives": [
-           "Marinha",
-           "Companhia Galley-La",
-           "Os Imperadores do Novo Mundo",
-           "Shichibukai",
-           "Cipher Pol Aigis Zero(CP-0)"
+          "Marinha",
+          "Companhia Galley-La",
+          "Os Imperadores do Novo Mundo",
+          "Shichibukai",
+          "Cipher Pol Aigis Zero(CP-0)"
         ]
       },
       {
         "image": "https://steamuserimages-a.akamaihd.net/ugc/957462736268837616/953C982AB097520FAA0E6A15A329C2ED80389920/",
         "title": "Das formas abaixo, qual delas é uma forma de ir para o novo mundo?",
-        "description": "Essa é boa em",
+        "description": "Red Line",
         "answer": 1,
         "alternatives": [
-           "Passar um túnel, feito na Red Line, que está à nível do mar",
-           "Usando o Red Port, que tem elevadores que vão para Mariejois e permitem cruzar a Red Line",
-           "Passando por uma passagem secreta no Calm Belt",
-           "Usando o Porto de Water 7, localizado no pé da Red Line",
-           "Usando as árvores do Arquipélago de Sabaody como estilingue"
+          "Passar um túnel, feito na Red Line, que está à nível do mar",
+          "Usando o Red Port, que tem elevadores que vão para Mariejois e permitem cruzar a Red Line",
+          "Passando por uma passagem secreta no Calm Belt",
+          "Usando o Porto de Water 7, localizado no pé da Red Line",
+          "Usando as árvores do Arquipélago de Sabaody como estilingue"
         ]
       },
       {
         "image": "https://i.pinimg.com/originals/24/1a/54/241a54fecbaa171e38c864feb2178977.gif",
         "title": "Enquanto os chapéus de palha estavam separados pelo mundo, algumas pessoas cuidaram do seu navio, algum dos personagens abaixo protegeu o navio durante o tempo que estavam separados?",
-        "description": "Essa é boa em",
+        "description": "Arquipélago de Sabaody",
         "answer": 2,
         "alternatives": [
           "Shanks",
@@ -97,7 +97,7 @@
       {
         "image": "https://pa1.narvii.com/6451/bcdd34a56fda2f5a2477f357313fbf5100590ce8_hq.gif",
         "title": "A quem pertencia a espada Shusui?",
-        "description": "Essa é boa em",
+        "description": "Uma das 21 espadas de grau O Wazamono",
         "answer": 1,
         "alternatives": [
           "Gecko Moria",
@@ -110,7 +110,7 @@
       {
         "image": "https://64.media.tumblr.com/f01e7510ffee59da0ff52f0a389a844b/3bfe2b32e40fc6a2-ad/s1280x1920/96733ec19351fe46e08a58caf0ef217f59a95a68.gifv",
         "title": "Quem é conhecido como a Criatura Mais Forte do Mundo?",
-        "description": "Essa é boa em",
+        "description": "Criatura Mais Forte do Mundo",
         "answer": 3,
         "alternatives": [
           "Barba Negra",
@@ -118,6 +118,19 @@
           "Barba Branca",
           "Kaido das Feras",
           "Condoriano"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/M1vCPyn.png",
+        "title": "Qual a residência oficial dos Piratas das Feras?",
+        "description": "Uma ilha do Novo Mundo",
+        "answer": 4,
+        "alternatives": [
+          "Dressrosa",
+          "Totto Land",
+          "Udon",
+          "Zou",
+          "Onigashima"
         ]
       }
     ],
